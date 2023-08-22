@@ -1,0 +1,8 @@
+Invalid links found at
+
+drei-master\src\core\Cloud.tsx
+drei-master\src\core\useEnvironment.tsx
+drei-master\src\core\useMatcapTexture.tsx
+drei-master\src\core\useNormalTexture.tsx
+
+try replacing it with https://github.com/pmndrs/drei-assets with specific endpoints according to need
